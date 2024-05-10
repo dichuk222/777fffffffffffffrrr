@@ -1,0 +1,91 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+header {
+    justify-content: space-between;
+    padding: 30px 11px 11px 11px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+    
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    color: darkorchid;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+    color: darkorchid;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+}
+
+article {
+    background-color: white;
+    padding:  29px 11px 11px 11px;
+    width: 400px;
+    margin: 29px 11px 11px 11px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    color: blueviolet;
+    background-color: black;
+}
+
+footer {
+    background-color: white;
+    padding: 20px 1px 1px 1px;
+    display: flex;
+    background-color: black;
+    color: blueviolet;
+}
+
+footer a {
+margin-right:     -100x;
+}
+
+footer p {
+    font-size: 24px;
+}
